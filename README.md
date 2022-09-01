@@ -1,1 +1,1 @@
-My first bash scripts
+Shell permissions project
