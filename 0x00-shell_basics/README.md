@@ -13,3 +13,7 @@
 6-firstdirectory - this script creates a directory in another directory using one command
 
 7-movethatfile - this script moves a file from a parent directory to a subdirectory of the same parent directory
+
+8-firstdelete - deletes a file using path for two parent directories
+
+9-firstdirdeletion - deletes a directory from a parent directory
