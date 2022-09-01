@@ -11,3 +11,5 @@
 5-listfilesdigitonly - this script displays current directory contents in long format with user and group IDs displayed numverically and hidden files (starting with .)
 
 6-firstdirectory - this script creates a directory in another directory using one command
+
+7-movethatfile - this script moves a file from a parent directory to a subdirectory of the same parent directory
