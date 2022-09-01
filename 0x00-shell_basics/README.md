@@ -17,3 +17,5 @@
 8-firstdelete - deletes a file using path for two parent directories
 
 9-firstdirdeletion - deletes a directory from a parent directory
+
+10-back - this script changes the working directory to the previous one
